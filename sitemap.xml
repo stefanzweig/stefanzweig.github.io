@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://stefanzweig.github.io/categories/</loc>
+    <loc>https://stefanzweig.github.io/categories/</loc>
     <lastmod>2022-07-30T18:52:14+08:00</lastmod>
   </url><url>
-    <loc>http://stefanzweig.github.io/post/my-first-post/</loc>
+    <loc>https://stefanzweig.github.io/post/my-first-post/</loc>
     <lastmod>2022-07-30T18:52:14+08:00</lastmod>
   </url><url>
-    <loc>http://stefanzweig.github.io/post/</loc>
+    <loc>https://stefanzweig.github.io/post/</loc>
     <lastmod>2022-07-30T18:52:14+08:00</lastmod>
   </url><url>
-    <loc>http://stefanzweig.github.io/tags/python/</loc>
+    <loc>https://stefanzweig.github.io/tags/python/</loc>
     <lastmod>2022-07-30T18:52:14+08:00</lastmod>
   </url><url>
-    <loc>http://stefanzweig.github.io/categories/python/</loc>
+    <loc>https://stefanzweig.github.io/categories/python/</loc>
     <lastmod>2022-07-30T18:52:14+08:00</lastmod>
   </url><url>
-    <loc>http://stefanzweig.github.io/</loc>
+    <loc>https://stefanzweig.github.io/</loc>
     <lastmod>2022-07-30T18:52:14+08:00</lastmod>
   </url><url>
-    <loc>http://stefanzweig.github.io/tags/</loc>
+    <loc>https://stefanzweig.github.io/tags/</loc>
     <lastmod>2022-07-30T18:52:14+08:00</lastmod>
   </url>
 </urlset>
