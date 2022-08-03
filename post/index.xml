@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Stefan Writes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Jul 2022 18:52:14 +0800</lastBuildDate><atom:link href="https://stefanzweig.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Aug 2022 09:26:55 +0800</lastBuildDate><atom:link href="https://stefanzweig.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>问题之一</title>
+      <link>https://stefanzweig.github.io/post/question-one/</link>
+      <pubDate>Wed, 03 Aug 2022 09:26:55 +0800</pubDate>
+      
+      <guid>https://stefanzweig.github.io/post/question-one/</guid>
+      <description>现在到底有多少卡脖子技术，我们需要多少年，需要“横空出世”吗？</description>
+    </item>
+    
     <item>
       <title>开篇</title>
       <link>https://stefanzweig.github.io/post/my-first-post/</link>
