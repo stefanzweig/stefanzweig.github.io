@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>speech on Stefan Writes</title>
+    <link>https://stefanzweig.github.io/tags/speech/</link>
+    <description>Recent content in speech on Stefan Writes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Aug 2022 09:26:55 +0800</lastBuildDate><atom:link href="https://stefanzweig.github.io/tags/speech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>问题之一</title>
+      <link>https://stefanzweig.github.io/post/question-one/</link>
+      <pubDate>Wed, 03 Aug 2022 09:26:55 +0800</pubDate>
+      
+      <guid>https://stefanzweig.github.io/post/question-one/</guid>
+      <description>现在到底有多少卡脖子技术，我们需要多少年，需要“横空出世”吗？</description>
+    </item>
+    
+    <item>
+      <title>开篇</title>
+      <link>https://stefanzweig.github.io/post/my-first-post/</link>
+      <pubDate>Sat, 30 Jul 2022 18:52:14 +0800</pubDate>
+      
+      <guid>https://stefanzweig.github.io/post/my-first-post/</guid>
+      <description>我也不知道能说什么 从头开始写。</description>
+    </item>
+    
+  </channel>
+</rss>
