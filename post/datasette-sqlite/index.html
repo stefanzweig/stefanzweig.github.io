@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Posts &middot; Stefan Writes</title>
+  <title>Datasette Sqlite &middot; Stefan Writes</title>
   <meta name="description" content="" />
 
   
@@ -24,7 +24,6 @@
   <link rel="shortcut icon" href="/favicon.png">
 
   
-  <link href="https://stefanzweig.github.io/post/index.xml" rel="alternate" type="application/rss+xml" title="Stefan Writes" />
   
 </head>
 
@@ -50,17 +49,23 @@
 </aside>
 
     <main class="content container">
-    <ul class="posts">
-<li>
-    <span><a href="https://stefanzweig.github.io/post/datasette-sqlite/">Datasette Sqlite</a> <time class="pull-right post-list" datetime="2022-08-16T06:39:35&#43;0800">Tue, Aug 16, 2022</time></span>
-  </li><li>
-    <span><a href="https://stefanzweig.github.io/post/narrow-minded/">大脑经常短路</a> <time class="pull-right post-list" datetime="2022-08-13T21:07:21&#43;0800">Sat, Aug 13, 2022</time></span>
-  </li><li>
-    <span><a href="https://stefanzweig.github.io/post/question-one/">问题之一</a> <time class="pull-right post-list" datetime="2022-08-03T09:26:55&#43;0800">Wed, Aug 3, 2022</time></span>
-  </li><li>
-    <span><a href="https://stefanzweig.github.io/post/my-first-post/">开篇</a> <time class="pull-right post-list" datetime="2022-07-30T18:52:14&#43;0800">Sat, Jul 30, 2022</time></span>
-  </li>
-</ul>
+    <div class="post">
+  <h1>Datasette Sqlite</h1>
+  <time datetime=2022-08-16T06:39:35&#43;0800 class="post-date">Tue, Aug 16, 2022</time>
+  <p>有一两年了，在油管上看到一个pycon的演讲，主题是 <a href="https://datasette.io">https://datasette.io</a> ，作者是Simon Willison。datasette是一个Python的包，也是一个数据展示的生态。可以通过<code>pip install datasette</code> 来安装。</p>
+<p>这个工具的的核心是在浏览器里展示<code>sqlite</code>数据库文件的内容。</p>
+<p>为什么要用sqlite呢？sqlite作为一个文件数据库，在互联网上的应用处理并发是不合适的，但是，作为一个只读的内容承载，是非常好的。有两篇参考文档可以看：</p>
+<p><a href="https://simonwillison.net/2021/Jul/28/baked-data/">https://simonwillison.net/2021/Jul/28/baked-data/</a></p>
+<p><a href="https://mozilla.github.io/meao/2018/03/28/bedrock-the-sqlitening/">https://mozilla.github.io/meao/2018/03/28/bedrock-the-sqlitening/</a></p>
+<p>最近，在阮一峰的网摘上，也收录里一篇SQLite背后的故事，很有趣。</p>
+<p><a href="https://liyafu.com/2022-07-31-sqlite-untold-story/">https://liyafu.com/2022-07-31-sqlite-untold-story/</a></p>
+<p>文摘链接在这里：</p>
+<p><a href="https://www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html">https://www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html</a></p>
+<p>可以好好研究一下这两个工具，挖掘一下。</p>
+
+</div>
+
+
     </main>
 
     
