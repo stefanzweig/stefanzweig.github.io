@@ -6,7 +6,20 @@
     <description>Recent content in Posts on Stefan Writes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Aug 2022 06:39:35 +0800</lastBuildDate><atom:link href="https://stefanzweig.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Aug 2022 06:40:08 +0800</lastBuildDate><atom:link href="https://stefanzweig.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>内核恐慌和吴涛的博客</title>
+      <link>https://stefanzweig.github.io/post/kernel-panic-wutao/</link>
+      <pubDate>Tue, 16 Aug 2022 06:40:08 +0800</pubDate>
+      
+      <guid>https://stefanzweig.github.io/post/kernel-panic-wutao/</guid>
+      <description>内核恐慌是个面向程序员的播客节目。前面一些比较好听，后来就更新得少了，以至于是年更节目了。
+最近好像有个什么播客活动，各种个样的电台在窜台。内核恐慌的两个主播Rio和吴涛就到枫言枫语去合作了一期节目叫 《如果不做程序员我们会做什么？》。
+由于多年都在听内核恐慌，所以这期的内容倒是了无新意。里面提到了主持人吴涛的博客，还给了链接，很有意思。
+吴涛的博客写了好几年，近几年不写了。我曾经看过，记忆里觉得都是一个个标题问题，然后就是个简单的回答，今天再去回顾，发现还真的写了不少文字在里面。
+其实无论文字长短，都是那一刻的思绪，值得记录下来。</description>
+    </item>
+    
     <item>
       <title>Datasette Sqlite</title>
       <link>https://stefanzweig.github.io/post/datasette-sqlite/</link>
